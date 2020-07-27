@@ -5,7 +5,7 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 项目启动
 ```
 npm run serve
 ```
